@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	jsoniter "github.com/json-iterator/go"
+	jsoniter "github.com/tychoish/jsoniter"
 	"github.com/stretchr/testify/require"
 )
 

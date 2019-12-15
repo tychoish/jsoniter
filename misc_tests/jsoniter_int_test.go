@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/json-iterator/go"
+	"github.com/tychoish/jsoniter"
 	"github.com/stretchr/testify/require"
 )
 

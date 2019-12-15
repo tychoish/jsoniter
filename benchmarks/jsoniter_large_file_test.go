@@ -2,7 +2,7 @@ package test
 
 import (
 	"encoding/json"
-	"github.com/json-iterator/go"
+	"github.com/tychoish/jsoniter"
 	"io/ioutil"
 	"os"
 	"testing"
