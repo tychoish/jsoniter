@@ -2,7 +2,7 @@ package jsoniter
 
 import (
 	"encoding/json"
-	"github.com/modern-go/reflect2"
+	"github.com/tychoish/jsoniter/reflect2"
 	"unsafe"
 )
 

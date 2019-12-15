@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/tychoish/jsoniter"
-	"github.com/modern-go/reflect2"
+	"github.com/tychoish/jsoniter/reflect2"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

@@ -2,7 +2,7 @@ package jsoniter
 
 import (
 	"fmt"
-	"github.com/modern-go/reflect2"
+	"github.com/tychoish/jsoniter/reflect2"
 	"io"
 	"reflect"
 	"unsafe"
